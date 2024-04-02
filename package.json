@@ -1,0 +1,12 @@
+{
+  "name": "apply-nesting-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "build": "tailwindcss -i input.css -o output.css --postcss"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
